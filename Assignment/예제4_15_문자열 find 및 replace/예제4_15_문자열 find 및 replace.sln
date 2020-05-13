@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "예제4_15_문자열 find 및 replace", "예제4_15_문자열 find 및 replace\예제4_15_문자열 find 및 replace.vcxproj", "{D009DCCB-11C1-4933-BBD9-9062BD193F61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D009DCCB-11C1-4933-BBD9-9062BD193F61}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D009DCCB-11C1-4933-BBD9-9062BD193F61}.Debug|Win32.Build.0 = Debug|Win32
+		{D009DCCB-11C1-4933-BBD9-9062BD193F61}.Release|Win32.ActiveCfg = Release|Win32
+		{D009DCCB-11C1-4933-BBD9-9062BD193F61}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
